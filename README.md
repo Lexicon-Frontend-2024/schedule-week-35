@@ -24,6 +24,7 @@
 * [Förklaring på alla himla filer som kommer i React-projekt](https://www.youtube.com/watch?v=VfhRDGhAFi0)
 
 ## Övningar:
+[Projekt]() - Code review fredag 09:00
 
 ## Slides:
 
