@@ -25,4 +25,9 @@
 
 ## Slides:
 
-## Lektionsrepon:
+## Lektioner:
+* [Måndag]() - Repetition av föregående vecka, intro till useRef- och useEffect-hooken 
+* [Tisdag]() - Mer useRef och useEffect i en code along, få övning som ska code reviewas på fredagen
+* [Onsdag]() - Genomgång av useContext, eget arbete
+* [Torsdag]() - Genomgång av useCallback och useMemo, repetition och eget arbete
+* [Fredag]() - Code review av övning och repetition av veckan i en code along med alla veckans koncept
