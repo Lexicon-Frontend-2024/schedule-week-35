@@ -3,7 +3,9 @@
 ###### React, vecka 2 av 7
 
 ## Mål för veckan:
-1. 
+1. Grundläggande kompetens i useRef, useContext, useMemo och useCallback
+2. Kunna skicka props till andra komponenter med säkerhet
+3. Kunna uppdatera state med säkerhet
 
 ## Material
 #### E-Learning:
@@ -25,7 +27,7 @@
 
 ## Slides:
 
-## Lektioner:
+## Lektionsrepon:
 * [Måndag]() - Repetition av föregående vecka, intro till useRef- och useEffect-hooken 
 * [Tisdag]() - Mer useRef och useEffect i en code along, få övning som ska code reviewas på fredagen
 * [Onsdag]() - Genomgång av useContext, eget arbete
