@@ -3,7 +3,7 @@
 ###### React, vecka 2 av 7
 
 ## Mål för veckan:
-1. Grundläggande kompetens i useRef, useContext och useContext
+1. Grundläggande kompetens i useRef, useContext och useEffect
 2. Kunna skicka props till andra komponenter med säkerhet
 3. Kunna uppdatera state med säkerhet
 
