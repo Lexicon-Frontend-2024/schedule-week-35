@@ -30,8 +30,8 @@
 ## Slides:
 
 ## Lektionsrepon:
-* [Måndag]() - FM: Repetition av föregående vecka, intro till useRef- och useEffect-hooken. EM: Eget arbete
-* [Tisdag]() - FM: Mer useRef och useEffect i en code along, få [övning](https://github.com/Lexicon-Frontend-2024/lecture-22-aug/tree/main) som ska code reviewas på fredagen. EM: Uppstart och eget arbete. 
+* [Måndag]() - FM: Repetition av föregående vecka, intro till useRef- och useEffect-hooken. Få [övning](https://github.com/Lexicon-Frontend-2024/lecture-22-aug/tree/main) på föregående veckas läromål. EM: Eget arbete
+* [Tisdag]() - FM: Mer useRef och useEffect i en code along, få övning som ska code reviewas på fredagen. EM: Uppstart och eget arbete. 
 * [Onsdag]() - FM: Eget arbete, EM: Genomgång av useContext, eget arbete
 * [Torsdag]() - FM: Eget arbete EM: Genomgång av useCallback och useMemo, repetition.
 * [Fredag]() - FM: Code review av övning och repetition av veckan i en code along med alla veckans koncept. EM: Eget arbete
