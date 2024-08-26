@@ -31,7 +31,7 @@
 * [React Hooks](https://docs.google.com/presentation/d/1M8o2BiXhyzWdk1LXbb8oy1U1T8ehCvlX1abRI1B8mvc/edit?usp=sharing)
 
 ## Lektionsrepon:
-* [Måndag]() - FM: Repetition av föregående vecka, intro till useRef- och useEffect-hooken. Få [övning](https://github.com/Lexicon-Frontend-2024/lecture-22-aug/tree/main) på föregående veckas läromål. EM: Eget arbete
+* [Måndag]() - FM: Repetition av föregående vecka. Få [övning](https://github.com/Lexicon-Frontend-2024/lecture-22-aug/tree/main) på föregående veckas läromål. EM: Eget arbete
 * [Tisdag]() - FM: useRef och useEffect i en code along, få övning som ska code reviewas på fredagen. EM: Uppstart och eget arbete. 
 * [Onsdag]() - FM: Eget arbete, EM: Genomgång av useContext, eget arbete
 * [Torsdag]() - FM: Eget arbete EM: Repetition.
