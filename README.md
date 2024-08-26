@@ -24,6 +24,7 @@
 * [Förklaring på alla himla filer som kommer i React-projekt](https://www.youtube.com/watch?v=VfhRDGhAFi0)
 
 ## Övningar:
+[Kommentera Mera](https://github.com/Lexicon-Frontend-2024/lecture-22-aug/tree/main)
 [Projekt]() - Code review fredag 09:00
 
 ## Slides:
