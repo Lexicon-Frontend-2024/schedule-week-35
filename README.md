@@ -26,7 +26,7 @@
 ## Övningar:
 * [Kommentera Mera](https://github.com/Lexicon-Frontend-2024/lecture-22-aug/tree/main)
 * [Projekt]() - Code review fredag 09:00
-
+* [Extra Övning - Movie Cards] (https://github.com/Lexicon-Frontend-2024/exercise-react-movie-cards) 
 ## Slides:
 * [React Hooks](https://docs.google.com/presentation/d/1M8o2BiXhyzWdk1LXbb8oy1U1T8ehCvlX1abRI1B8mvc/edit?usp=sharing)
 
