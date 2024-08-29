@@ -34,5 +34,5 @@
 * Måndag - FM: Repetition av föregående vecka. Få [övning](https://github.com/Lexicon-Frontend-2024/lecture-22-aug/tree/main) på föregående veckas läromål. EM: Eget arbete
 * Tisdag - FM: useRef och useEffect i en code along, få övning som ska code reviewas på fredagen. EM: Uppstart och eget arbete. 
 * Onsdag - FM: Eget arbete, EM: Genomgång av useContext, eget arbete
-* Torsdag - FM: Eget arbete EM: Repetition.
+* [Torsdag](https://github.com/Lexicon-Frontend-2024/lecture-29-aug) - FM: Eget arbete EM: Repetition.
 * Fredag - FM: Code review av övning och repetition av veckan i en code along med alla veckans koncept. EM: Eget arbete
